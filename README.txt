@@ -1,4 +1,6 @@
-                                              README
+Images of the working GUI can be found here https://docs.google.com/document/d/18pOoOHk2NHgUwR-verGdU4CYgnHCEgPpn7iR0fVHa20/edit?usp=sharing
+
+					      README
                                              (PHASE-3)
                           ================================================
                           Appending a cache like memory module to Phase 2
